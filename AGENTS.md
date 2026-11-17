@@ -64,3 +64,5 @@ The site is plain HTML/CSS, without a build dependency download. `.github/workfl
 ## Collaboration
 
 Lead with the result, then evidence and limitations. Favor concrete progress and repo-local records. Keep planning distinct from adopted implementation. Report local validation, GitHub deployment, HTTPS delivery, and visual inspection separately.
+
+For shared documentation tools and cross-repository handoffs, follow [agent.md](agent.md).
